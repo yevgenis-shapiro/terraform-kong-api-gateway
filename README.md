@@ -5,6 +5,8 @@
 <br>
 Kong API Gateway is a cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins. It also provides advanced AI capabilities with multi-LLM support
 
+### Features
+
 ✅ Advanced routing, load balancing, health checking - all configurable via a RESTful admin API or declarative configuration
 
 ✅ Authentication and authorization for APIs using methods like JWT, basic auth, OAuth, ACLs and more.
