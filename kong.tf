@@ -35,5 +35,5 @@ resource "helm_release" "kong" {
     name  = "ingressController.installCRDs"
     value = "false"
   }
-  depends_on = [helm_release.argocd]
+  #depends_on = [helm_release.argocd]
 }
