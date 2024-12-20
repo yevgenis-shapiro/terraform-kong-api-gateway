@@ -1,6 +1,6 @@
 ## Kubernetes-Api-Gateway
 
-![1_KnxE_FTzAGp9SKsL0VQXkw](https://github.com/user-attachments/assets/3640d7bf-ab68-4996-bba3-1202d3194c45)
+![share](https://github.com/user-attachments/assets/5a250659-9aad-4e80-aae3-7e7cbda1af48)
 
 ##
 <br>
