@@ -1,5 +1,6 @@
 ## Kubernetes-Api-Gateway
-![1_ck9u-6iJPw5W8iJrvZokDA](https://github.com/user-attachments/assets/ace97b79-ab91-4084-b606-05a2b2a09bc0)
+
+![1_KnxE_FTzAGp9SKsL0VQXkw](https://github.com/user-attachments/assets/3640d7bf-ab68-4996-bba3-1202d3194c45)
 
 ##
 <br>
@@ -16,3 +17,15 @@ Kong API Gateway is a cloud-native, platform-agnostic, scalable API Gateway dist
 ✅ Sophisticated deployment models like Declarative Databaseless Deployment and Hybrid Deployment (control plane/data plane separation)
 ✅ Native ingress controller support for serving Kubernetes
 ```
+
+🚀 Technologies
+
+The following tools were used in this project:
+
+    Redpanda + Kafka + Kafka Connect + Kafka Schema Registry
+
+
+
+✅ Requirements
+
+Before starting 🏁, you need to have Git, Kubernetes, Terraform
