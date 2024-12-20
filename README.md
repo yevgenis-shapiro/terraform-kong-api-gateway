@@ -1,6 +1,6 @@
-## Kubernetes-Api-Gateway
+## Kubernetes-Api-Gateway-Management
 
-![share](https://github.com/user-attachments/assets/5a250659-9aad-4e80-aae3-7e7cbda1af48)
+![others-8](https://github.com/user-attachments/assets/4ff89b9b-78c6-4e2e-8eb1-30fbf4dd4cc9)
 
 ##
 <br>
@@ -22,7 +22,7 @@ Kong API Gateway is a cloud-native, platform-agnostic, scalable API Gateway dist
 
 The following tools were used in this project:
 
-    Redpanda + Kafka + Kafka Connect + Kafka Schema Registry
+    Kong Api Management 
 
 
 
