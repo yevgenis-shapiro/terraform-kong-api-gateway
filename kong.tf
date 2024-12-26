@@ -6,6 +6,8 @@ resource "helm_release" "kong" {
   chart      = "kong"
   create_namespace = true
   wait             = true
+  depends_on = [kind_cluster.default]
+
   set {
     name  = "ingressController.enabled"
     value = "true"
@@ -28,12 +30,12 @@ resource "helm_release" "kong" {
   
   set {
     name  = "proxy.type"
-    value = "ClusterIP"
+    value = "LoadBalancer"
   }
 
   set {
     name  = "ingressController.installCRDs"
     value = "false"
   }
-  #depends_on = [helm_release.argocd]
+ 
 }
