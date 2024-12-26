@@ -1,6 +1,7 @@
 ## Kubernetes-Api-Gateway-Management
 
-![others-8](https://github.com/user-attachments/assets/4ff89b9b-78c6-4e2e-8eb1-30fbf4dd4cc9)
+![64ed9941-diagram-gateway-deployment-agnostic](https://github.com/user-attachments/assets/4e3ac71e-3dd9-4be5-98eb-a06268b72f5d)
+
 
 ##
 <br>
